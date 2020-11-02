@@ -1,7 +1,8 @@
 <?php
 
+namespace Bitninja;
 
-class BitninjaAPI
+class Api
 {
 
     /**
