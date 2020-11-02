@@ -1,0 +1,13 @@
+{
+    "name": "bitninja/reseller-api",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Bharat B",
+            "email": "bbharat95@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
